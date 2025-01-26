@@ -10,7 +10,7 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 
 ---
 ## 🔥 Recent GitHub Contributions
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedyunus2018&theme=dark&hide_border=true)
 
 ## 📂 Recent Commits
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical)

@@ -18,6 +18,10 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000080?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F00?style=for-the-badge&logo=HuggingFace&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=LangChain&logoColor=white)  
 
 ## 🚀 Latest Updates
 - 🔍 **Currently Exploring**: Generative AI, with projects focusing on text and image generation.

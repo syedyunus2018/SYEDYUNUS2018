@@ -13,15 +13,13 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical&hide_border=true)
 
 ## 🔧 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000080?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F00?style=for-the-badge&logo=HuggingFace&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=LangChain&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F00?style=for-the-badge&logo=HuggingFace&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=LangChain&logoColor=white)  
+
 
 ## 🚀 Latest Updates
 - 🔍 **Currently Exploring**: Generative AI, with projects focusing on text and image generation.

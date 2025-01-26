@@ -9,6 +9,11 @@ I'm a **Data Scientist** with over **3 years of experience**, passionate about t
 I love solving complex problems and mentoring others in Python, NumPy, Pandas, Statistics, and Machine Learning. Currently, I'm exploring **Generative AI** to stay ahead in the ever-evolving tech landscape.
 
 ---
+## 🔥 Recent GitHub Contributions
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical&hide_border=true)
+
+## 📂 Recent Commits
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical)
 
 ## 🔧 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
@@ -17,13 +22,11 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+## 🚀 Latest Updates
+- 🔍 **Currently Exploring**: Generative AI, with projects focusing on text and image generation.
+- 🖥️ **Upcoming Blog**: "Best Practices for Feature Engineering in Machine Learning".
+
 ---
-## 🔥 Recent GitHub Contributions
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical&hide_border=true)
-
-## 📂 Recent Commits
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical)
-
 ## 📌 Pinned Projects
 
 ### [1. Sales Forecasting with Time-Series Analysis]
@@ -40,11 +43,6 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 
 ---
 
-## 🚀 Latest Updates
-- 🔍 **Currently Exploring**: Generative AI, with projects focusing on text and image generation.
-- 🖥️ **Upcoming Blog**: "Best Practices for Feature Engineering in Machine Learning".
-
----
 
 ## 🌱 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/syedyunusds)  

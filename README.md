@@ -18,8 +18,12 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedyunus2018&theme=react-dark)
+## 🔥 Recent GitHub Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedyunus2018&theme=dark&hide_border=true)
+
+## 📂 Recent Commits
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical)
+
 ## 📌 Pinned Projects
 
 ### [1. Sales Forecasting with Time-Series Analysis]

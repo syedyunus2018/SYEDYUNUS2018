@@ -1,7 +1,7 @@
 # Hi there, I'm Syed Yunus! 👋
 
 ## 🌟 About Me
-I'm a **Data Scientist** with over **3 years of experience**, passionate about turning data into actionable insights. I specialize in:
+I'm an aspiring **Data Scientist** with over **3 years of experience**, passionate about turning data into actionable insights. I specialize in:
 - 🧠 **Machine Learning**: Predictive modeling, time-series analysis, and deep learning.
 - 🗣️ **Natural Language Processing**: Text classification, sentiment analysis, and advanced NLP techniques.
 - 📊 **Data Analysis**: Exploratory data analysis (EDA), feature engineering, and statistical modeling.
